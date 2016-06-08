@@ -1,2 +1,4 @@
-config.php
-admin/config.php
+/.gitignore
+/.htaccess
+/config.php
+/admin/config.php
