@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://loc.al/lahaha/admin/');
-define('HTTP_CATALOG', 'http://loc.al/lahaha/');
+define('HTTP_SERVER', 'http://laha.ha/admin/');
+define('HTTP_CATALOG', 'http://laha.ha/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://loc.al/lahaha/admin/');
-define('HTTPS_CATALOG', 'http://loc.al/lahaha/');
+define('HTTPS_SERVER', 'http://laha.ha/admin/');
+define('HTTPS_CATALOG', 'http://laha.ha/');
 
 // DIR
 define('DIR_APPLICATION', '/Users/apple/Sites/lahaha/admin/');
